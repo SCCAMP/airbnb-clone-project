@@ -28,19 +28,21 @@ Ensure fast loading times for better user engagement
 
 Prioritize mobile responsiveness for accessibility on all devices
 
-Key Features to Implement
+## Key Features to Implement
+Property search and filtering
+Detailed property viewing
+Secure checkout process
+User authentication
 
-Primary Pages
-Page	Description
-Property Listing View	Grid display of available properties with filters
-Listing Detailed View	Complete property details with images and booking form
-Simple Checkout View	Streamlined payment and booking confirmation
-Importance of User-Friendly Design
+## Primary Pages
+
+| Page Name              | Description                                                      | Key Elements                                          |
+|------------------------|------------------------------------------------------------------|-------------------------------------------------------|
+| Property Listing View  | Shows all available properties with images, prices, and location | Property cards, Search bar, Filters                   |
+| Listing Detailed View  | Displays full details of a selected property                     | Image gallery, Description, Amenities, Booking button |
+| Simple Checkout View   | Final booking confirmation and payment process                   | User info form, Payment summary, Confirm button       |
+
+
+## Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
-Property search with filtering options
 
-Detailed property viewing with images and descriptions
-
-Secure and simplified checkout/booking process
-
-User authentication and session handling
