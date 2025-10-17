@@ -46,3 +46,20 @@ User authentication
 ## Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
+## Color Styles:
+
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+
+
+##Typography:
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
+
+## Why Identifying Design Properties Matters
+
+Understanding the design properties of a mockup such as color styles and typography  ensures consistency, scalability, and brand identity across the entire project. By defining these properties early, developers and designers can maintain visual harmony, reduce guesswork during implementation, and speed up collaboration between design and development teams.
