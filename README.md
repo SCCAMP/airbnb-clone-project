@@ -63,3 +63,16 @@ Secondary Text: Circular, Book (400), 14px
 ## Why Identifying Design Properties Matters
 
 Understanding the design properties of a mockup such as color styles and typography  ensures consistency, scalability, and brand identity across the entire project. By defining these properties early, developers and designers can maintain visual harmony, reduce guesswork during implementation, and speed up collaboration between design and development teams.
+
+## Project Roles and Responsibilities 
+| Role              | Responsibilities                                                        |
+|-------------------|-------------------------------------------------------------------------|
+| Project Manager   | Oversees timeline, coordinates team, manages deliverables               |
+| Frontend Developers | Implements UI components, ensures responsive design                    |
+| Backend Developers  | Builds APIs, manages database, implements business logic               |
+| Designers         | Creates mockups, maintains design system, ensures UX quality           |
+| QA/Testers        | Writes test cases, performs testing, reports bugs                      |
+| DevOps Engineers  | Manages deployment, CI/CD pipeline, server infrastructure              |
+| Product Owner     | Defines requirements, prioritizes features, represents stakeholders    |
+| Scrum Master      | Facilitates agile processes, removes blockers, organizes meetings      |
+
